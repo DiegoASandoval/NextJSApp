@@ -1,0 +1,1 @@
+{"ast":null,"code":"async function handler() {}\n\nexport default handler;","map":null,"metadata":{},"sourceType":"module"}
